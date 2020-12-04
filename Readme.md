@@ -1,1 +1,1 @@
-# JS PAINTER
+# JS PAINTER (from nomad coder)
